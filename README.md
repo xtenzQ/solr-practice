@@ -1,0 +1,2 @@
+# solr-practice
+Practicing Solr
